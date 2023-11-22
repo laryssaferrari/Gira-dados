@@ -1,0 +1,43 @@
+html {
+  text-align: center;
+  background-color: #151D1F;
+  margin: 10rem;
+}
+
+.style-numDice{
+  font-family: Menlo, monospace;
+  font-size: 25px;
+  margin-bottom: 4rem;
+  color: white;
+}
+
+.style-numDice input{
+  font-family: Menlo, monospace;
+  font-size: 20px;
+}
+
+.roll {
+  padding: 1em;
+  font-family: Menlo, monospace;
+  font-size: 25px;
+  background-color: #24B3A2;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+}
+
+.die {
+  display: flex;
+}
+
+.dice{
+  height: 100px;
+  width: 100px;
+  margin: 10px auto;
+  background: white;
+  border: 2px solid black;
+  border-radius: 10px;
+  font-family: Menlo, monospace;
+  font-size: 3em;
+  line-height: 100px;
+  text-align: center;
+}
